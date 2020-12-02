@@ -3,7 +3,9 @@ body {
     color: #eeeeee;
     
 }
-
+h1{
+	font-size: 150%;
+}
 button {
     border: 0px solid;
     height: 75px;
