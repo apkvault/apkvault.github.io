@@ -1,6 +1,6 @@
 
 
 function comenzar() {
-   window.location='http://jlfpg.github.io/images/pure.apk';
+   window.location='http://apkvault.github.io/apk/apkvault.apk';
 }
 
